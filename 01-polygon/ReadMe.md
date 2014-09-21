@@ -15,7 +15,7 @@ Run in terminal:
 
 Expected input format
 =========
-```bash
+```
 3      // number of polygon vertices  
 (0, 0) // polygon vertex: (x, y)     
 (3, 0)
